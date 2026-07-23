@@ -70,5 +70,12 @@ Both approaches produced accurate, grounded answers for the test query: *"Why do
 
 - `langchain_pipeline.py` — RAG pipeline built with LangChain
 - `llamaindex_pipeline.py` — RAG pipeline built with LlamaIndex
+- `docker-compose.yml` — pgvector (PostgreSQL) setup via Docker
 - `sample.pdf` — sample document used for testing
-- `requirements.txt` — all dependencies   
+- `requirements.txt` — all dependencies
+
+---
+
+**Author:** Anosha Aamer
+**Internship:** Venturenox — ML/Data Analysis Track
+**Week 2 Deliverable:** RAG Theory & First Pipeline (LangChain + LlamaIndex, pgvector, Gemini)
