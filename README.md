@@ -77,5 +77,7 @@ Both approaches produced accurate, grounded answers for the test query: *"Why do
 ---
 
 **Author:** Anosha Aamer
+
 **Internship:** Venturenox — ML/Data Analysis Track
+
 **Week 2 Deliverable:** RAG Theory & First Pipeline (LangChain + LlamaIndex, pgvector, Gemini)
